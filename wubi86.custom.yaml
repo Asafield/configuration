@@ -1,0 +1,12 @@
+patch:
+  punctuator:
+    import_preset: mysymbols
+  ascii_composer/good_old_caps_lock: true
+  ascii_composer/switch_key:
+      Caps_Lock: clear
+      Shift_L: commit_code
+      Shift_R: inline_ascii
+  # speller/max_code_length: 4 #最长4码
+  # speller/auto_select: true #顶字上屏
+  # speller/auto_select_unique_candidate: true #无重码自动上屏
+  

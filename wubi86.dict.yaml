@@ -1,0 +1,10 @@
+--- 
+name: wubi86                 #必须与文件名相同，此处不加文件后缀 
+version: "2014.10.28" 
+sort: by_weight 
+use_preset_vocabulary: true
+import_tables:              #导入词库 
+  - mydict                       #将所有词库以这种方式写入
+  # - dict_sougou_standard
+  - sougouNetwork  
+...
