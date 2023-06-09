@@ -1,0 +1,40 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	37
+#@/user_id	711993a3-1d5b-4aab-b847-b1b8da6220d4
+an jian 	按鍵	c=2 d=1.87888 t=37
+bian hua 	變化	c=1 d=0.970446 t=37
+bing bu 	並不	c=1 d=1 t=19
+chong qing 	重慶	c=1 d=1 t=36
+da xue 	大學	c=1 d=1 t=37
+de 	的	c=1 d=1 t=22
+dui ci 	對此	c=1 d=1 t=20
+fu zhu 	輔助	c=2 d=1.97521 t=37
+gan mao 	感冒	c=1 d=1 t=21
+gong cheng 	工程	c=1 d=1 t=34
+guang dian 	光電	c=1 d=1 t=33
+jia 	加	c=1 d=0.99005 t=37
+jian ti 	簡體	c=1 d=0.965605 t=37
+ke shi 	可是	c=2 d=1.75674 t=37
+kuai jie jian 	快捷鍵	c=1 d=1 t=32
+lai shuo 	來說	c=1 d=1 t=24
+le 	了	c=1 d=1 t=29
+ma 	碼	c=1 d=1 t=37
+na ge 	哪個	c=1 d=0.941765 t=37
+ni zai 	你在	c=1 d=0.951229 t=37
+qi guai 	奇怪	c=1 d=1 t=28
+ren 	人	c=1 d=1 t=23
+sheng yin 	聲音	c=1 d=1 t=31
+shi 	是	c=1 d=0.937067 t=37
+shi ji shang 	實際上	c=1 d=1 t=18
+shu chu 	輸出	c=1 d=0.960789 t=37
+shuang pin 	雙拼	c=1 d=0.97531 t=37
+tiao jie 	調節	c=1 d=1 t=30
+wu bi 	五筆	c=1 d=0.985112 t=37
+xian de 	顯得	c=1 d=1 t=26
+xue yuan 	學院	c=1 d=1 t=35
+you dian 	有點	c=1 d=1 t=27
+zhe jiu 	這就	c=1 d=1 t=25
+zuo wei 	作爲	c=1 d=1 t=17
